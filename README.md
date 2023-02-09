@@ -1,29 +1,44 @@
-
-<h1 align="center">Hi 👋, I'm Hitesh Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh103&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh103" /> </p>
-
-<p align="left"> <a href="https://twitter.com/hiteshh100" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshh100?logo=twitter&style=for-the-badge" alt="hiteshh100" /></a> </p>
-
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **hp5741609@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hiteshh100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshh100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hitesh-prajapati-93b4211b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-prajapati-93b4211b8" height="30" width="40" /></a>
+<h1 align="center">🚀 Welcome to Hitesh's Github Profile</h1>
+<p align="center">
+  <a href="https://github.com/hitesh103">
+    <img src="https://img.shields.io/badge/Github-hitesh103-0e75b6?logo=github&style=flat" alt="hitesh103">
+  </a>
+  <a href="https://twitter.com/hiteshh100">
+    <img src="https://img.shields.io/twitter/follow/hiteshh100?label=Follow&logo=twitter&style=flat" alt="Follow">
+  </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hitesh103&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+<p align="center">
+  <em>A passionate frontend developer from India</em>
+</p>
+<br>
+🔭 About Me
+I am a frontend developer constantly learning and expanding my skillset. Currently, I am focusing on learning Backend development. I have expertise in JavaScript and love to help others with it. If you have any questions, feel free to reach out to me via email at hp5741609@gmail.com.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<br>
+💬 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/hiteshh100" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/hitesh-prajapati-93b4211b8" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
+  </a>
+</p>
+<br>
+💻 Skills & Tools
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+  </a>
+  &nbsp;&n
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh103&show_icons=true&locale=en&layout=compact" alt="hitesh103" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitesh103&show_icons=true&locale=en" alt="hitesh103" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh103&" alt="hitesh103" /></p>
