@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh103&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh103" /> </p>
 
-<img align="right" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761139205b64d0bcbbbc365050e40af5f674d2dd9736&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761139205b64d0bcbbbc365050e40af5f674d2dd9736&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesh103" alt="hitesh103" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hiteshh100" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshh100?logo=twitter&style=for-the-badge" alt="hiteshh100" /></a> </p>
 
