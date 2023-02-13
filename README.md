@@ -1,4 +1,4 @@
-          ![logo](https://github.com/Hitesh103/Hitesh103/blob/main/WELCOME.gif)
+![logo](https://github.com/Hitesh103/Hitesh103/blob/main/WELCOME.gif)
 <h1 align="center">Hi 👋, I'm Hitesh Prajapati</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
