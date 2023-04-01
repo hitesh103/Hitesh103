@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WELCOME%20GUYS%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=HELLO%20GUYS%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Hitesh Prajapati</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
