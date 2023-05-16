@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshh100" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshh100?logo=twitter&style=for-the-badge" alt="hiteshh100" /></a> </p>
 
-- 🔭 I’m currently working on **My College Website .**
+- 🔭 I’m currently working in **All Events.**
 
-- 🌱 I’m currently learning **MERN Technologies.**
+- 🌱 I’m currently learning **PHP.**
 
-- 💬 Ask me about **react, JavaScript, HTML**
+- 💬 Ask me about **React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **hp5741609@gmail.com**
 
