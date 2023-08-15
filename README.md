@@ -1,6 +1,8 @@
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=HELLO%20GUYS%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hello 👋, I'm Hitesh Prajapati</h1>
-# 💫 About Me:
+# Hello 👋, I'm Hitesh Prajapati
+ ## 💫 About Me:
+
 🔭 Currently working on improving Real time code editor.<br>🌱 Learning PHP and diving deep into its ecosystem.<br>💬 Ask me about Node.js, React.js, or any web development-related queries.<br>📫 How to reach me: [hp5741609@gmail.com](mailto:hp5741609@gmail.com)<br>😄 Pronouns: He/Him
 
 
