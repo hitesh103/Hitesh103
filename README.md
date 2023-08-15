@@ -5,6 +5,10 @@
 
 🔭 Currently working on improving Real time code editor.<br>🌱 Learning PHP and diving deep into its ecosystem.<br>💬 Ask me about Node.js, React.js, or any web development-related queries.<br>📫 How to reach me: [hp5741609@gmail.com](mailto:hp5741609@gmail.com)<br>😄 Pronouns: He/Him
 
+## Experience
+
+### Full-Stack Developer Intern — AllEvents.in (World’s Largest Event Discovery Platform)
+📍 Ahmedabad, India | May 2023 - Present
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh103) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HITESHH100) 
