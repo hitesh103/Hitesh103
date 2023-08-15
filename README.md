@@ -1,5 +1,6 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=V2VsY29tZSBHdXlz%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=V2VsY29tZSB0byBteSBwcm9maWxlLg==&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 # Hello 👋, I'm Hitesh Prajapati
  ## 💫 About Me:
 
