@@ -4,7 +4,7 @@
 # Hello 👋, I'm Hitesh Prajapati
  ## 💫 About Me:
 
-🔭 Currently working on improving Real time code editor.<br>🌱 Learning PHP and diving deep into its ecosystem.<br>💬 Ask me about Node.js, React.js, or any web development-related queries.<br>📫 How to reach me: [hp5741609@gmail.com](mailto:hp5741609@gmail.com)<br>😄 Pronouns: He/Him
+🔭 Currently working on improving Real time code editor.<br>🌱 Learning Data Structure in c++ and diving deep into its various algorithms.<br>💬 Ask me about Node.js, React.js, or any web development-related queries.<br>📫 How to reach me: [hp5741609@gmail.com](mailto:hp5741609@gmail.com)<br>😄 Pronouns: He/Him
 
 ## Experience
 
